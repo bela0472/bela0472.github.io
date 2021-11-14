@@ -1,0 +1,73 @@
+/* this is my font style and size and background colour for the body */
+body{
+    font-family: Helvetica, Sans-Serif;
+    color: #444444;
+    font-size: 9pt;
+    background-color:#4eb4b49a;
+
+} /* This is my resizing for the image */
+#starfishh{
+    float: left; 
+    margin: 5px;
+    width: 20% ;
+    height: 20%;
+}
+#starfishtext {
+    font-size: 40pt;
+}/* This is my clearfix for the float */
+.clearfix {
+    overflow: auto;
+}
+/* This is my container area and colour for page */
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+p { /* This is my styling for the paragraph element */
+    font-size: 15px;
+    color: black;
+    text-align: justify;
+}
+h2 {
+    font-size: 30px;
+    color: black;
+}
+/* Centered text */
+.centered {
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  } 
+a {
+    font-size: 30px;
+    color: black;
+    text-decoration: none; 
+    padding:100px;
+}
+nav {
+    margin: 0 auto;
+    text-align: center;
+}
+h3 {font-size: 20px;}
+#ho {font-size: 15px;}
+#ho2 {font-size: 15px;
+}
+#ho3 {font-size: 15px;}
+li {font-size: 15px;}
+.main {
+    background-color:#e6ffff;
+    width: 1000px;
+    margin-left:215px;
+    padding:10px;
+  }
+footer{text-align:right;}
+#name{width:99%;}
+#email{width:99%;}
+
+
+
+
+
+
